@@ -1,1 +1,2 @@
-O repositório redes-ellen será usado para inserir atividades da disciplina de INtrodução a Programação
+O repositório redes será usado para inserir atividades da disciplina de Introdução a Programação.
+Orientador: Professor Pablo Tiburcio
